@@ -16,7 +16,7 @@ Configuração do Tesseract
 A biblioteca Tesseract é utilizada para realizar o OCR na API. Para que o Tesseract funcione corretamente, é necessário direcionar os arquivos da base de dados (tessdata) para um local específico em seu sistema. Você precisa garantir que os arquivos da base de dados estejam presentes nesse local antes de executar a API.
 
 # Observação: 
-No código fornecido, o caminho dos arquivos de dados está definido como um exemplo: "C:/Users/decio.faria/Documents/tessdata/". Certifique-se de ajustar o caminho dos arquivos da base de dados de acordo com o local onde eles estão armazenados em seu sistema.
+No código fornecido, o caminho dos arquivos de dados está definido como um exemplo: "C://Users//decio.faria//JAVA_INTELLIJ//JAVA_OCR//tessdata". Certifique-se de ajustar o caminho dos arquivos da base de dados de acordo com o local onde eles estão armazenados em seu sistema.
 
 ```java
 POST /ocr

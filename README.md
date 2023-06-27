@@ -1,3 +1,7 @@
+![3](https://github.com/Dec1o/Dec1o_OCR/assets/104839239/67436388-8063-4f28-b230-f216aab2d665)
+
+![Postman](https://github.com/Dec1o/Dec1o_OCR/assets/104839239/34b12161-13ba-4fdc-afc0-bbd17ab38dc2)
+
 # API de OCR
 Esta API em Java Spring Boot permite realizar reconhecimento óptico de caracteres (OCR) em imagens. Ela utiliza a biblioteca Tesseract para realizar a leitura do texto presente na imagem.
 

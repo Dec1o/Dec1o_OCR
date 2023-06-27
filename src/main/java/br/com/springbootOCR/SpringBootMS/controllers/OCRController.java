@@ -30,7 +30,7 @@ public class OCRController {
         try {
             BufferedImage img = ImageIO.read(file.getInputStream());
             Tesseract tesseract = new Tesseract();
-            tesseract.setDatapath("C:/Users/decio.faria/Documents/tessdata/");
+            tesseract.setDatapath("C://Users//decio.faria//JAVA_INTELLIJ//JAVA_OCR//tessdata");
             tesseract.setLanguage("por");
             resultado = tesseract.doOCR(img);
         } catch (IOException e) {
